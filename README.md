@@ -2,7 +2,7 @@
 
 Um portfólio moderno e responsivo para arquiteta, desenvolvido com React, TypeScript, Tailwind CSS e Vite. O site apresenta projetos arquitetônicos com recursos interativos como comparação Antes/Depois e integração com calendário para agendamentos.
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidadess
 
 - ✨ Design moderno e responsivo
 - 🎨 Sistema de design tokens personalizável
